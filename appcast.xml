@@ -5,5 +5,24 @@
     <link>https://srgplus.github.io/srgplus-key-macos/appcast.xml</link>
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
+    <item>
+      <title>0.2.3.1 (202611162304)</title>
+      <pubDate>Mon, 16 Nov 2026 23:07:07 +0000</pubDate>
+      <sparkle:version>202611162304</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+**SRG+ Key for Mac, Beta.** The first version you can download outside the App Store.
+
+- Your passwords, two-step codes, passkeys, cards, bank details, API keys and notes, locked on your Mac with your master password and Secret Key. Unlock with Touch ID.
+- Fill passwords and codes in Safari and other apps: turn on SRG+ Key in System Settings › General › AutoFill & Passwords.
+- Bring your passwords over from Apple Passwords, 1Password or a CSV file.
+- Sign in with your SRG+ account, and add your iPhone with a setup code.
+- The app checks for updates every hour and installs a new version when you say so.
+
+This is a Beta: keep your Emergency Kit safe, and keep your important passwords in your current password app too for now.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="8QjHI95xrXFs7bH5Hb1KcNSCunGf76CRJ9D/qwsGwFH3HkWeUMD8QXH5xU5fNspxQTOTDPDKt2jms1JbS9kvCg==" length="12672556" />
+    </item>
   </channel>
 </rss>
