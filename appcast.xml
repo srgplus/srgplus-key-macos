@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.10 (202611191929)</title>
+      <pubDate>Thu, 19 Nov 2026 19:32:42 +0000</pubDate>
+      <sparkle:version>202611191929</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Your devices follow you into your workspaces.** A workspace made on one of your devices now opens on your others too, by itself: no invite code. Keep SRG+ Key open and unlocked on a device that has the workspace; your iPhone, iPad or Mac shows it within a minute.
+- While a device waits, the vault switcher says which of your devices can add it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="lghJwUZkHqWwENbb7yvgx0rhFwiUYhgAwDOWkkzqcewDNG1718ZBJVAlRMZBiueMPi9Z3D3CAVGu3Qjze7sQBQ==" length="14463234" />
+    </item>
+    <item>
       <title>0.2.3.9 (202611191205)</title>
       <pubDate>Thu, 19 Nov 2026 12:08:25 +0000</pubDate>
       <sparkle:version>202611191205</sparkle:version>
