@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.5 (202611190656)</title>
+      <pubDate>Thu, 19 Nov 2026 07:00:10 +0000</pubDate>
+      <sparkle:version>202611190656</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Give access now lists the items of the workspace you have open, so the login you pick is the one the agent gets.
+- Agents show only in a workspace you own. My Vault no longer offers them.
+- Each SRG+ agent shows its picture from SRG+, and Access › Agents is a page of all agents with search.
+- Logins and API keys show their website's icon, taken from that website only. Settings › Vault › Show website icons turns it off.
+- On the Mac, Settings no longer covers the last row of the sidebar.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="+YM6lfyfhqTe3kLmGnEqXItBG6guoErnZWudaJlUBVTNcdkaVAZ0dkkZpLbh9pVjzNQrv7aBm9pDmlLBjB1MCA==" length="13683285" />
+    </item>
+    <item>
       <title>0.2.3.4 (202611190436)</title>
       <pubDate>Thu, 19 Nov 2026 04:39:43 +0000</pubDate>
       <sparkle:version>202611190436</sparkle:version>
