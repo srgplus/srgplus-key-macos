@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.8 (202611190906)</title>
+      <pubDate>Thu, 19 Nov 2026 09:13:05 +0000</pubDate>
+      <sparkle:version>202611190906</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- On an agent's page, Asks Me First, Allowed and Take Back now really change the agent's access, confirmed with Touch ID. Before, they changed only what this Mac showed.
+- Giving an agent another item keeps its current rule, so items it may use by itself stay allowed.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="oVJkf7leH0nHw3AP/bYA5JROH7l084OZ5H7ykT1H/PXsCb11E50finqGt8XqYxKQ0zmyazNMFD8nukZhtqZKAQ==" length="14104680" />
+    </item>
+    <item>
       <title>0.2.3.7 (202611190829)</title>
       <pubDate>Thu, 19 Nov 2026 08:32:10 +0000</pubDate>
       <sparkle:version>202611190829</sparkle:version>
