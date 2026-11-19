@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.6 (202611190708)</title>
+      <pubDate>Thu, 19 Nov 2026 07:11:54 +0000</pubDate>
+      <sparkle:version>202611190708</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+**Move and copy items between your vaults.**
+
+- **Move to** and **Copy to** take a login, card, bank details, API key or note from My Vault to a workspace vault you can write to, or back. Every field goes with it: the password, the two-step code, the passkey and the notes.
+- Right-click one item or several in the list, or use the Vault row in the item's details.
+- A move asks first, and the item leaves its vault only once its copy is on the server. An agent given the item loses it and must be given it again in the new vault.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="I2Pti189nugPKVf4606fCMtnh/EsqiT8XrGx6cd7MtgPIpVg4VW5VoOKaiUP43xXPEsGbmY0OtbjZi+UAzWfCQ==" length="13912163" />
+    </item>
+    <item>
       <title>0.2.3.5 (202611190656)</title>
       <pubDate>Thu, 19 Nov 2026 07:00:10 +0000</pubDate>
       <sparkle:version>202611190656</sparkle:version>
