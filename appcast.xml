@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.3 (202611190341)</title>
+      <pubDate>Thu, 19 Nov 2026 03:51:47 +0000</pubDate>
+      <sparkle:version>202611190341</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Give an agent of SRG+ access to a login or an API key: pick the agent and the items, confirm with Touch ID. The agent signs in or calls the API through SRG+ Key and never sees the password or the key.
+- Agents' requests to use an item now show in the app for your yes or no.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="3nOtwfv0S1/furoV9y8ro2YolNMEMUpkIsq7R2B761mHeSluqvNqkOXVNAGiYY7vvhVxyZHlN0YKSUEJ7RuKAg==" length="13327292" />
+    </item>
+    <item>
       <title>0.2.3.2 (202611182132)</title>
       <pubDate>Wed, 18 Nov 2026 21:35:40 +0000</pubDate>
       <sparkle:version>202611182132</sparkle:version>
