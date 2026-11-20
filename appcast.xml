@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.11 (202611200251)</title>
+      <pubDate>Fri, 20 Nov 2026 02:55:44 +0000</pubDate>
+      <sparkle:version>202611200251</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Give an agent access right from a password.** In a workspace you own, open an item: under «Who can use it», Give Access… lists the agents that do not have it yet. Pick one or more and confirm once with Touch ID.
+- An agent that already has items in this vault keeps its rule; a new one takes the rule and the time you pick there.
+- Take Back on an agent's row (right-click) takes that one item back.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="fvm2npBIScTtIfTZWmB8wEF7XV0R25KK40omRui3YoX8aQOSXLMdfx0di3YahXYbB+exwSAGz0YQ0PI5vGkPAg==" length="14601817" />
+    </item>
+    <item>
       <title>0.2.3.10 (202611191929)</title>
       <pubDate>Thu, 19 Nov 2026 19:32:42 +0000</pubDate>
       <sparkle:version>202611191929</sparkle:version>
