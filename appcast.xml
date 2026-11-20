@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.15 (202611202045)</title>
+      <pubDate>Fri, 20 Nov 2026 20:47:42 +0000</pubDate>
+      <sparkle:version>202611202045</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Groups.** A workspace's owner can make groups (Sales, Production, Leadership), give a group its vaults once at View or Edit, and put people in it: they get every vault of the group. Taking someone out takes those vaults back with a new key.
+- **Clear People.** A vault's People shows who has it through which group, and anything that did not go through yet, with Give Again or Take Away.
+- Update SRG+ Key on all your devices before your first group.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="9BqqaY/cmHc39GNAI1SIAbafuOCNdVBRCtDKcM4swaGZhJ04hpUbmkQDcmee7zzsonNHD0dO9j+8iSHoyPigCQ==" length="16038274" />
+    </item>
+    <item>
       <title>0.2.3.14 (202611201940)</title>
       <pubDate>Fri, 20 Nov 2026 19:44:48 +0000</pubDate>
       <sparkle:version>202611201940</sparkle:version>
