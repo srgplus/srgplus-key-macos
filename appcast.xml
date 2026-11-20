@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.14 (202611201940)</title>
+      <pubDate>Fri, 20 Nov 2026 19:44:48 +0000</pubDate>
+      <sparkle:version>202611201940</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Several vaults in a workspace.** A workspace's owner can make more vaults (Sales, Finance, one per client) and give each person only the vaults they need.
+- **View or Edit.** Each person gets a vault at View (they can only look) or Edit (they can change it). The owner changes the level or takes a vault back from the vault's People.
+- **Safer by default.** Nothing is shared on its own: only the owner gives a vault. A vault that gets a new key no longer opens for agents until they are given access again, and the app names what they had.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="lR2DUoPiYNNuQgTVbToYmPFehJ5AIq0q/D9Y4a3154GqQES+zrq5vt0Kcw8c9LQGvl/LnL8l6Y/l6+Y+riXzBw==" length="15076067" />
+    </item>
+    <item>
       <title>0.2.3.13 (202611201710)</title>
       <pubDate>Fri, 20 Nov 2026 17:13:08 +0000</pubDate>
       <sparkle:version>202611201710</sparkle:version>
