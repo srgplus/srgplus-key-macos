@@ -6,6 +6,17 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.13 (202611201710)</title>
+      <pubDate>Fri, 20 Nov 2026 17:13:08 +0000</pubDate>
+      <sparkle:version>202611201710</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Agents sign in to AT&T.** A login for att.com given to an agent now covers AT&T's own sign-in pages (signin.att.com and oidc.idp.clogin.att.com). Give the login to the agent again once to use it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="pG28PvLJBkZYNq6B+K4pbgQiAfO0/0q7Vkmac3oWY9gXI7GsIPCl9TKs0/jBZRFhKHAZ3LTsUPNgCZZ9Aw60Aw==" length="14652303" />
+    </item>
+    <item>
       <title>0.2.3.12 (202611200524)</title>
       <pubDate>Fri, 20 Nov 2026 05:27:17 +0000</pubDate>
       <sparkle:version>202611200524</sparkle:version>
