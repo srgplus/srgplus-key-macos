@@ -6,6 +6,17 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.12 (202611200524)</title>
+      <pubDate>Fri, 20 Nov 2026 05:27:17 +0000</pubDate>
+      <sparkle:version>202611200524</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Update at the top.** When a new version is ready, a blue Update button shows at the top right of the window. One click installs it and reopens the app; without a click it still installs when you quit.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="KX12XjGAQMEW6xSSfTxdOp4mzk7qO4OnZhzasyMrTsuli/SERdNz89euozc2DJlgPuF9YIwm4OeHLN+EQN5VAA==" length="14652144" />
+    </item>
+    <item>
       <title>0.2.3.11 (202611200251)</title>
       <pubDate>Fri, 20 Nov 2026 02:55:44 +0000</pubDate>
       <sparkle:version>202611200251</sparkle:version>
