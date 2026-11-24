@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.17 (202611242338)</title>
+      <pubDate>Tue, 24 Nov 2026 23:46:47 +0000</pubDate>
+      <sparkle:version>202611242338</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Ask now (new, off by default):** an AI agent can ask for one login. You confirm with Touch ID in Key's own window, and the agent gets that one login for one task. Turn it on in Settings › Agents.
+- Safer by design: the page is emptied when you leave it, and the agent never sees your vault.
+- Search in the vault (0.2.3.16) is included.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="ITwHqQ9LAq662AjR/XR3Ziu7Q5Fki392Q470wuxlwR0vorQVgK05Fi63db7yVLIOzNNMgreJBR99Ie3U2/2JBA==" length="21912015" />
+    </item>
+    <item>
       <title>0.2.3.16 (202611242126)</title>
       <pubDate>Tue, 24 Nov 2026 21:39:51 +0000</pubDate>
       <sparkle:version>202611242126</sparkle:version>
