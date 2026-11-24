@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.16 (202611242126)</title>
+      <pubDate>Tue, 24 Nov 2026 21:39:51 +0000</pubDate>
+      <sparkle:version>202611242126</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Search at the top.** A wide search field in the middle of the window, as in 1Password. Type and the matching items of all your vaults show right under it, each with its vault; ↑ ↓ pick, Return opens the item (its vault opens with it), Esc closes the list. ⌘F goes to the field.
+- **Every word counts.** «auto top» finds «Revolut - Auto Top Up»; upper and lower case and accents do not matter.
+- **You on top of Settings.** Your SRG+ name and photo head Settings, as in every SRG+ app; it opens your Account.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="t+f8UU4/25bw2R/fNeeTHj8DxvCnROjoNo8MvN78V7pTWSPdPh+SveEwzkf54FZH0w9yFzyTzo7zORv53ln3CQ==" length="17416568" />
+    </item>
+    <item>
       <title>0.2.3.15 (202611202045)</title>
       <pubDate>Fri, 20 Nov 2026 20:47:42 +0000</pubDate>
       <sparkle:version>202611202045</sparkle:version>
