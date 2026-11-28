@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.19 (202611280146)</title>
+      <pubDate>Sat, 28 Nov 2026 01:50:54 +0000</pubDate>
+      <sparkle:version>202611280146</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- An agent can now write a key into an SRG+ Sites site's settings without ever seeing it. You approve each write with Touch ID in SRG+ Key.
+- When you give an agent a key, you can mark it «May Be Put into SRG+ Sites».
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="BStyBC0hZrLckvEY+arCqrFuYbXvBZzRXqXoi5CcsqPRuZxqkFW7IxDGlmvYFt7L9DIE/PSzMMyXqEL0MfiBDg==" length="22401258" />
+    </item>
+    <item>
       <title>0.2.3.18 (202611250056)</title>
       <pubDate>Wed, 25 Nov 2026 01:02:55 +0000</pubDate>
       <sparkle:version>202611250056</sparkle:version>
