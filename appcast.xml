@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Key for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.2.3.20 (202611280316)</title>
+      <pubDate>Sat, 28 Nov 2026 03:20:04 +0000</pubDate>
+      <sparkle:version>202611280316</sparkle:version>
+      <sparkle:shortVersionString>0.2.3.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Sign in with** on a login: link the login it signs in through (Google, Apple and others), picked from all your logins with search on top. The login shows it, and a tap opens it.
+- **For agents › Browser** is the new name for where an agent signs in (Any, Cloud browser, My Chrome).
+- Update SRG+ Key on your iPhone and iPad before you use **Sign in with**: an older version cannot open a vault that has such a login.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-key-macos/releases/latest/download/SRG-Plus-Key.dmg" type="application/octet-stream" sparkle:edSignature="DXOu6AIm/OadD4cmLiRRipiMgD66lop5RmTvYSc80/G6SZK4vNLvF7cCpZj2b+YcWrGXmnIGccYlrsFdilXKDw==" length="22609908" />
+    </item>
+    <item>
       <title>0.2.3.19 (202611280146)</title>
       <pubDate>Sat, 28 Nov 2026 01:50:54 +0000</pubDate>
       <sparkle:version>202611280146</sparkle:version>
